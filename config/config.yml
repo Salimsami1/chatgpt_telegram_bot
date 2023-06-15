@@ -1,7 +1,7 @@
 telegram_token: "6078098992:AAHh6Q5lvd37gZ2PMqfzuQsKXtgZWae1ieQ"
 openai_api_key: "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"
 use_chatgpt_api: true
-allowed_telegram_usernames: [@Mommymalakbot]  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as integers
+allowed_telegram_usernames: [@anisbenbouda]  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
 return_n_generated_images: 1
 n_chat_modes_per_page: 5
